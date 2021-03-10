@@ -11,3 +11,8 @@ I am a front-end developer currently working with Vue.js. I've developed with Re
 
 - 📝 I write about the challengens that i've come through with in [medium](https://medium.com/@paulossr);
 - 📫 You can reach me by e-mail too: ps131296@gmail.com;
+
+
+📈 **My language stats:**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ps1312&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
