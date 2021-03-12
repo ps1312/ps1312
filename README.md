@@ -11,7 +11,7 @@ I am a front-end developer currently working with Vue.js. I've developed with Re
 
 - 📝 I write about the challengens that i've come through with in [medium](https://medium.com/@paulossr);
 - 📫 You can reach me by e-mail too: ps131296@gmail.com;
-
+- 👨‍💻 Recently I created a blog and I'm posting there too: [pssr.dev](https://pssr.dev);
 
 📈 **My language stats:**
 
